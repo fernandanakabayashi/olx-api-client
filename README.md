@@ -15,7 +15,7 @@ as informações de um recurso da API olx.com.br que deseja acessar.
 
 ## Primeiro passo
 
-Quer integrar com a OLX? Envie um e-mail para integracao@olxbr.com
+Quer integrar com a OLX? Envie um e-mail para novointegrador@olxbr.com
 
 ## Criando uma aplicação
 Antes de iniciar o protocolo de autenticação com o servidor olx.com.br, o
